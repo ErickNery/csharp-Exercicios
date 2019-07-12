@@ -1,12 +1,17 @@
 ﻿using System;
 using System.Globalization;
 using System.Collections;
+using Exercicios.Section3;
 
 
 namespace ExerciciosIntroducaoPOO {
-    class Main {
-        public static void main(){
+    class Program {
 
+        private static ExerciciosSec3 exercicios = new ExerciciosSec3();
+
+        static void Main(string[] args) {
+            exercicios.exercicio1();
+            Console.ReadKey();
         }
     }
 }
