@@ -10,7 +10,7 @@ namespace ExerciciosIntroducaoPOO {
         private static ExerciciosSec3 exercicios = new ExerciciosSec3();
 
         static void Main(string[] args) {
-            exercicios.exercicio4();
+            exercicios.exercicio6();
             Console.ReadKey();
         }
     }
