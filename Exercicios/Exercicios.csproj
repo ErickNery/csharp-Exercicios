@@ -60,7 +60,8 @@
   <ItemGroup>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Section3\ExerciciosSec3.cs" />
+    <Compile Include="Section3\ExerciciosCon2.cs" />
+    <Compile Include="Section3\ExerciciosSeq1.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

@@ -7,10 +7,11 @@ using Exercicios.Section3;
 namespace ExerciciosIntroducaoPOO {
     class Program {
 
-        private static ExerciciosSec3 exercicios = new ExerciciosSec3();
+        private static ExerciciosSeq1 exercicios1 = new ExerciciosSeq1();
+        private static ExerciciosCon2 exercicios2 = new ExerciciosCon2();
 
         static void Main(string[] args) {
-            exercicios.exercicio6();
+            exercicios2.exercicio8();
             Console.ReadKey();
         }
     }

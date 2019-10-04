@@ -3,7 +3,8 @@ using System.Collections.Generic;
 using System.Globalization;
 
 namespace Exercicios.Section3 {
-    class ExerciciosSec3 {
+    //Exercicios 1 estrutura sequencial
+    class ExerciciosSeq1 {
 
         private struct ProdutoExercicio5 {
             public int codigoProduto, qtdProduto;
