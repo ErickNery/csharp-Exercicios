@@ -2,6 +2,7 @@
 using System.Globalization;
 using System.Collections;
 using Exercicios.Section3;
+using Exercicios.Section5;
 
 
 namespace ExerciciosIntroducaoPOO {
@@ -11,7 +12,7 @@ namespace ExerciciosIntroducaoPOO {
         private static ExerciciosCon2 exercicios2 = new ExerciciosCon2();
 
         static void Main(string[] args) {
-            exercicios2.exercicio8();
+            ExerciciosSec5.main();
             Console.ReadKey();
         }
     }

@@ -62,6 +62,8 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Section3\ExerciciosCon2.cs" />
     <Compile Include="Section3\ExerciciosSeq1.cs" />
+    <Compile Include="Section5\Conta.cs" />
+    <Compile Include="Section5\ExerciciosSec5.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
