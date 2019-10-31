@@ -64,6 +64,8 @@
     <Compile Include="Section3\ExerciciosSeq1.cs" />
     <Compile Include="Section5\Conta.cs" />
     <Compile Include="Section5\ExerciciosSec5.cs" />
+    <Compile Include="Section6\Employee.cs" />
+    <Compile Include="Section6\ExerciciosSec6.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

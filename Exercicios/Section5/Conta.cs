@@ -17,7 +17,7 @@ namespace Exercicios.Section5 {
         }
 
         public double _saldo;
-        public int Numero { get; }
+        public int Numero { get; private set; }
         public string Titular { get; set; }
 
         public double realizarDeposito(double valor) {
