@@ -66,6 +66,11 @@
     <Compile Include="Section5\ExerciciosSec5.cs" />
     <Compile Include="Section6\Employee.cs" />
     <Compile Include="Section6\ExerciciosSec6.cs" />
+    <Compile Include="Section9\Exercicio1\WorkerLevel.cs" />
+    <Compile Include="Section9\Exercicio1\Departament.cs" />
+    <Compile Include="Section9\Exercicio1\HourContract.cs" />
+    <Compile Include="Section9\Exercicio1\Worker.cs" />
+    <Compile Include="Section9\ExerciciosSec9.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
