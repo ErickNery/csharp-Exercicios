@@ -5,7 +5,7 @@ using Exercicios.Section3;
 using Exercicios.Section5;
 using Exercicios.Section6;
 using Exercicios.Section9;
-
+using Exercicios.Section10;
 
 namespace ExerciciosIntroducaoPOO {
     class Program {
@@ -14,9 +14,10 @@ namespace ExerciciosIntroducaoPOO {
         private static ExerciciosCon2 exercicios2 = new ExerciciosCon2();
         private static ExerciciosSec6 exercicios6 = new ExerciciosSec6();
         private static ExerciciosSec9 exercicios9 = new ExerciciosSec9();
+        private static ExerciciosSec10 exercicios10 = new ExerciciosSec10();
 
         static void Main(string[] args) {
-            exercicios9.exercicio1();
+            exercicios10.Exercicio2();
             Console.ReadKey();
         }
     }

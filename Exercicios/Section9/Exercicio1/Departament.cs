@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Exercicios.Section9.Exercicio1
+namespace Exercicios.Section9
 {
     class Departament
     {

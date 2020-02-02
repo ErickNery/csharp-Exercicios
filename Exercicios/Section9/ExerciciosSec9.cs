@@ -3,7 +3,6 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using Exercicios.Section9.Exercicio1;
 
 namespace Exercicios.Section9
 {

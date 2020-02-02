@@ -1,0 +1,6 @@
+C:\Users\user\documents\visual studio 2015\Projects\Exercicios\Exercicios\bin\Debug\Exercicios.exe.config
+C:\Users\user\documents\visual studio 2015\Projects\Exercicios\Exercicios\bin\Debug\Exercicios.exe
+C:\Users\user\documents\visual studio 2015\Projects\Exercicios\Exercicios\bin\Debug\Exercicios.pdb
+C:\Users\user\documents\visual studio 2015\Projects\Exercicios\Exercicios\obj\Debug\Exercicios.csprojResolveAssemblyReference.cache
+C:\Users\user\documents\visual studio 2015\Projects\Exercicios\Exercicios\obj\Debug\Exercicios.exe
+C:\Users\user\documents\visual studio 2015\Projects\Exercicios\Exercicios\obj\Debug\Exercicios.pdb
