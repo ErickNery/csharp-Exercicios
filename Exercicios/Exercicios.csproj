@@ -67,6 +67,9 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Section10\TaxPayer.cs" />
     <Compile Include="Section10\UsedProduct.cs" />
+    <Compile Include="Section11\Account.cs" />
+    <Compile Include="Section11\DomainException.cs" />
+    <Compile Include="Section11\ExerciciosSec11.cs" />
     <Compile Include="Section3\ExerciciosCon2.cs" />
     <Compile Include="Section3\ExerciciosSeq1.cs" />
     <Compile Include="Section5\Conta.cs" />
